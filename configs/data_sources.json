@@ -1,0 +1,24 @@
+{
+  "datasets": {
+    "Industrial_and_Scientific": {
+      "source": "Amazon Reviews 2018, 5-core (McAuley Lab, UCSD)",
+      "url": "https://mcauleylab.ucsd.edu/public_datasets/data/amazon_v2/categoryFilesSmall/Industrial_and_Scientific_5.json.gz",
+      "filename": "Industrial_and_Scientific_5.json.gz"
+    },
+    "Office_Products": {
+      "source": "Amazon Reviews 2018, 5-core (McAuley Lab, UCSD)",
+      "url": "https://mcauleylab.ucsd.edu/public_datasets/data/amazon_v2/categoryFilesSmall/Office_Products_5.json.gz",
+      "filename": "Office_Products_5.json.gz"
+    },
+    "All_Beauty": {
+      "source": "Amazon Reviews 2018, 5-core (McAuley Lab, UCSD)",
+      "url": "https://mcauleylab.ucsd.edu/public_datasets/data/amazon_v2/categoryFilesSmall/All_Beauty_5.json.gz",
+      "filename": "All_Beauty_5.json.gz"
+    },
+    "LastFM1K": {
+      "source": "LastFM-1K music listening log (Celma, 2010)",
+      "url": null,
+      "note": "Obtain the listening log from its official distribution, then run 'python scripts/download_data.py --url <URL> --name LastFM1K', or place the SID-level CSV splits directly under data/processed/."
+    }
+  }
+}

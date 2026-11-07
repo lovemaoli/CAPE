@@ -1,0 +1,11 @@
+{
+  "lambda_grid": [0.0, 0.05, 0.1, 0.25, 0.5, 1.0, 2.0, 5.0],
+  "cases": {
+    "MiniOneRec_Industrial_and_Scientific_seed42": 0.5,
+    "MiniOneRec_Office_Products_seed42": 0.5,
+    "MiniOneRec_LastFM1K_seed42": 5.0,
+    "TIGER_LastFM1K_seed42": 5.0,
+    "TIGER_LastFM1K_seed43": 5.0,
+    "TIGER_LastFM1K_seed44": 5.0
+  }
+}
